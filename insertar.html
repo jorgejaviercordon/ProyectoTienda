@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+<title>Tienda Web version 1.0 de jorge cordon y javier villares</title>
+<body>
+	<h1>"Tienda Web V1.0"</h1>
+	<h2>"añadir un nuevo producto"</h2>
+<form action="insertarProducto.php" method="post">
+  <p>
+    <input type="text" id="cod" name="cod">
+    <label for="cod">cod</label>
+  </p>
+  <p>
+    <input type="text" id="descripcion" name="descripcion">
+    <label for="descripcion">descripcion</label>
+  </p>
+<p>
+    <input class="form-control" required type="number" id="precio" name="precio">
+    <label for="precio">precio</label>
+  </p>
+<p>
+    <input class="form-control" required type="number" id="stock" name="stock" min="0">
+    <label for="stock">stock</label><br></br>
+ <button type="submit" class="btn btn-primary">enviar</button>
+</form>
+<body>
+</html>
