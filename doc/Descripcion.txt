@@ -1,1 +1,9 @@
-aqui se hara una descripcion de los archivos de texto.
+index.html --> Contendra los enlaces a los diferentes paginas del documento.
+buscar.html --> Es el archivo que contiene el formulario html que usamos para buscar los distintos productos.
+buscarClientes.html --> Es el archivo html que contiene el formulario que usamos para buscar los diferentes clientes.
+insertar.html --> Es el archivo html que contiene el formulario que usamos para insertar los productos.
+insertarClientes.html --> Es el archivo html que contiene el formulario que usamos para insertar los clientes.
+buscarCliente.php -->  Es el archivo .php necesario que contiene el codigo usado para buscar el cliente.
+insertarClientes.php --> Es el archivo php necesario que contiene el codigo que usamos para insertar los clientes.
+buscarProducto.php --> Es el archivo php necesario que contiene el codigo que usamos para buscar los productos.
+buscarClientes.php --> Es el archivo php necesario que contiene el codigo que usamos para buscar los clientes.
