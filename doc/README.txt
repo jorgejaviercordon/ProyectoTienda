@@ -1,2 +1,0 @@
-este sera el readme
-
